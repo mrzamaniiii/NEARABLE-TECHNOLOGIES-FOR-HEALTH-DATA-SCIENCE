@@ -11,7 +11,6 @@
 This repository contains the final implementation of a nearable rPPG monitoring system developed for the Laboratory of Nearable Technologies for Health Data Science. The system estimates heart rate from RGB facial videos, validates the results against synchronized CMS50D wearable pulse oximeter measurements, and adapts the live analysis according to detected head-motion patterns.
 
 ---
-
 # Overview
 
 The proposed framework estimates physiological parameters directly from facial videos while maintaining robustness under realistic acquisition conditions, including different head movements.
